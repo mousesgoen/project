@@ -122,12 +122,12 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      https://sonic-earth.blogspot.com/2015/09/greed-is-good-remuneration-motivation.html,
-      https://sonic-earth.blogspot.com/2015/09/4-rules-for-new-entrepreneurs-practical.html,
-      https://sonic-earth.blogspot.com/2015/08/if-your-resume-is-cake-your-cover.html,
-      https://sonic-earth.blogspot.com/2015/08/3-smart-reasons-why-you-should-consider.html,
-      https://sonic-earth.blogspot.com/2015/08/safe-your-links.html,
-      https://sonic-earth.blogspot.com/2015/08/3-million-in-6-months-with-adsense.html,
+      "https://sonic-earth.blogspot.com/2015/09/greed-is-good-remuneration-motivation.html",
+      "https://sonic-earth.blogspot.com/2015/09/4-rules-for-new-entrepreneurs-practical.html",
+      "https://sonic-earth.blogspot.com/2015/08/if-your-resume-is-cake-your-cover.html",
+      "https://sonic-earth.blogspot.com/2015/08/3-smart-reasons-why-you-should-consider.html",
+      "https://sonic-earth.blogspot.com/2015/08/safe-your-links.html",
+      "https://sonic-earth.blogspot.com/2015/08/3-million-in-6-months-with-adsense.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
